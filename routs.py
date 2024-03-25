@@ -1,0 +1,1 @@
+URL_SERVICE = "https://sistemas.oefa.gob.pe/vigilancia-amb2-aire-ws/restVigamb/RegistroAire"
